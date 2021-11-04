@@ -1,8 +1,7 @@
 ## PancakeBot - Powerful Discord Bot
 
 This is the FAQ Section of the bot
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+Fun Fact: This website was created in Mobile
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
