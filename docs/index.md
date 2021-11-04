@@ -1,7 +1,6 @@
 PancakeBot - Powerful
 
-You can use the [editor on GitHub](https://github.com/ZeepYT/Pancake/edit/main/docs/index.md) to maintain and preview the content for your website in Markdown files.
-
+This is the main FAQ Section for the bot | This section contains 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
