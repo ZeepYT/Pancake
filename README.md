@@ -4,8 +4,10 @@ This is the FAQ Section of the bot
 Fun Fact: This website was created in Mobile
 ### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Where is this bot made from?
 
+The bot was made using https://autocode.com
+,
 ```markdown
 Syntax highlighted code block
 
